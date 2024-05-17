@@ -1,0 +1,28 @@
+{
+  "name": "2030xwebRTC",
+  "version": "1.0.0",
+  "description": "A powerful and versatile npm package designed to handle WebRTC functionalities for front-end to back-end communication.",
+  "main": "lib/2030xwebRTC.js",
+  "scripts": {
+    "test": "node test/2030xwebRTC.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BadNintendo/2030xwebRTC.git"
+  },
+  "keywords": [
+    "webrtc",
+    "peer-to-peer",
+    "media",
+    "datachannel",
+    "sdp",
+    "ice",
+    "rtc"
+  ],
+  "author": "BadNintendo",
+  "license": "MIT",
+  "dependencies": {
+    "node-pre-gyp": "^0.16.0"
+  },
+  "devDependencies": {}
+}
