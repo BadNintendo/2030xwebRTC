@@ -1,7 +1,7 @@
 # 2030xwebRTC
 
-![npm](https://img.shields.io/npm/v/2030xwebRTC)
-![license](https://img.shields.io/github/license/BadNintendo/2030xwebRTC)
+![npm](https://img.shields.io/npm/v/badnintendo/webrtc2030)
+![license](https://img.shields.io/github/license/BadNintendo/badnintendo/webrtc2030)
 
 2030xwebRTC is a powerful and versatile npm package designed to handle WebRTC (Web Real-Time Communication) functionalities for front-end to back-end communication. This package provides an extensive set of features to enable peer-to-peer connections, data channels, media streaming, and more. Developed by BadNintendo, 2030xwebRTC aims to simplify the integration and usage of WebRTC in your projects.
 
