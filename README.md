@@ -10,7 +10,7 @@
 To install the 2030xwebRTC package, use the following command:
 
 ```bash
-npm install 2030xwebRTC
+npm i @badnintendo/webrtc2030
 ```
 
 ## Usage
